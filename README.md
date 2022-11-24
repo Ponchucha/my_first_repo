@@ -3,3 +3,4 @@
 > ещё немного текста через браузер
 # Картинка
 ![girl](IMG_3031.jpg)
+![picture](Ambersweet_oranges.jpg)
