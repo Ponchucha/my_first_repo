@@ -8,3 +8,10 @@
 Это апельсин
 
 ![picture](Ambersweet_oranges.jpg)
+
+# Lists
+
+1. one
+2. two
+3. three
+
